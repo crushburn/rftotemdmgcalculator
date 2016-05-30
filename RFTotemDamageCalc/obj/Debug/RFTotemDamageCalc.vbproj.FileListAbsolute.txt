@@ -1,0 +1,16 @@
+c:\users\spark\onedrive\dokumente\visual studio 2013\Projects\RFTotemDamageCalc\RFTotemDamageCalc\bin\Debug\RFTotemDamageCalc.exe.config
+c:\users\spark\onedrive\dokumente\visual studio 2013\Projects\RFTotemDamageCalc\RFTotemDamageCalc\bin\Debug\RFTotemDamageCalc.exe
+c:\users\spark\onedrive\dokumente\visual studio 2013\Projects\RFTotemDamageCalc\RFTotemDamageCalc\bin\Debug\RFTotemDamageCalc.pdb
+c:\users\spark\onedrive\dokumente\visual studio 2013\Projects\RFTotemDamageCalc\RFTotemDamageCalc\bin\Debug\RFTotemDamageCalc.xml
+c:\users\spark\onedrive\dokumente\visual studio 2013\Projects\RFTotemDamageCalc\RFTotemDamageCalc\obj\Debug\RFTotemDamageCalc.Form1.resources
+c:\users\spark\onedrive\dokumente\visual studio 2013\Projects\RFTotemDamageCalc\RFTotemDamageCalc\obj\Debug\RFTotemDamageCalc.Resources.resources
+c:\users\spark\onedrive\dokumente\visual studio 2013\Projects\RFTotemDamageCalc\RFTotemDamageCalc\obj\Debug\RFTotemDamageCalc.vbproj.GenerateResource.Cache
+c:\users\spark\onedrive\dokumente\visual studio 2013\Projects\RFTotemDamageCalc\RFTotemDamageCalc\obj\Debug\RFTotemDamageCalc.exe
+c:\users\spark\onedrive\dokumente\visual studio 2013\Projects\RFTotemDamageCalc\RFTotemDamageCalc\obj\Debug\RFTotemDamageCalc.xml
+c:\users\spark\onedrive\dokumente\visual studio 2013\Projects\RFTotemDamageCalc\RFTotemDamageCalc\obj\Debug\RFTotemDamageCalc.pdb
+C:\Users\spark\onedrive\dokumente\visual studio 2013\Projects\RFTotemDamageCalc\RFTotemDamageCalc\obj\Debug\RFTotemDamageCalc.vbprojResolveAssemblyReference.cache
+C:\Users\spark\onedrive\dokumente\visual studio 2013\Projects\RFTotemDamageCalc\RFTotemDamageCalc\bin\Debug\RFTotemDamageCalc.exe.manifest
+C:\Users\spark\onedrive\dokumente\visual studio 2013\Projects\RFTotemDamageCalc\RFTotemDamageCalc\bin\Debug\RFTotemDamageCalc.application
+C:\Users\spark\onedrive\dokumente\visual studio 2013\Projects\RFTotemDamageCalc\RFTotemDamageCalc\obj\Debug\RFTotemDamageCalc.TrustInfo.xml
+C:\Users\spark\onedrive\dokumente\visual studio 2013\Projects\RFTotemDamageCalc\RFTotemDamageCalc\obj\Debug\RFTotemDamageCalc.exe.manifest
+C:\Users\spark\onedrive\dokumente\visual studio 2013\Projects\RFTotemDamageCalc\RFTotemDamageCalc\obj\Debug\RFTotemDamageCalc.application
